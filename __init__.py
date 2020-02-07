@@ -1,5 +1,5 @@
 from mycroft import MycroftSkill, intent_file_handler
-
+#test
 
 class Test(MycroftSkill):
     def __init__(self):
